@@ -12,6 +12,7 @@
 </p>
 
 ---
+## 👨‍💻 DEVELOPER PROFILE
 ```
 const HaFiid98: Developer = {
   name: "Hssaini Abdelhafid",
@@ -38,9 +39,7 @@ const HaFiid98: Developer = {
 };
 
 console.log(`Initializing environment for ${HaFiid98.name}... 🚀`);
-```
----
-  
+
   skills: [
     "🌐 Web Development (React, Node.js)",
     "🤖 AI Engineering",
@@ -61,7 +60,7 @@ console.log(`Initializing environment for ${HaFiid98.name}... 🚀`);
 
 console.log(`Initializing environment for ${haeii98.name}... 🚀`);
 
-
+```
 
 ## 🛠 Tech Stack
 
