@@ -4,7 +4,8 @@
 <h3 align="center"> Full Stack Developer | Futur AI Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Go+Developer;Distributed+Systems+%26+APIs;Concurrency+%26+Real-Time+Apps;Clean+Architecture+Enthusiast" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=26&duration=4000&pause=1000&color=2EF7AB&center=true&width=435&lines=Full+Stack+Developer+%7C+Futur+AI+Engineer)](https://git.io/typing-svg)
+" />
 </p>
 
 <p align="center">
