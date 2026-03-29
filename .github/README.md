@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Abdelhafid Hssaini</h1>
-<h3 align="center">Backend-Focused Full Stack Developer | Systems & API Engineer</h3>
+<h3 align="center"> Full Stack Developer | Futur AI Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Go+Developer;Distributed+Systems+%26+APIs;Concurrency+%26+Real-Time+Apps;Clean+Architecture+Enthusiast" />
