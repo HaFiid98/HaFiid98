@@ -4,7 +4,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=48&duration=4000&pause=1000&color=7DF7B9&center=true&vCenter=true&random=true&width=1100&height=150&lines=Full+Stack+Developer+%7C+Futur+AI+Engineer)](https://git.io/typing-svg)
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/a3990f87-04a4-4dfd-92a8-ed673c9f535f" />
+![My GIF](https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif)
 
 <p align="center">
 
