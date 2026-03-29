@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jane%20Doe&fontSize=80&animation=fadeIn" />
 </div>
 
-<h3 align="center">🚀 Software Engineer | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Full stack Developper  | Futur AI Engineer</h3>
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvcounter/?username=dev-jane-doe)
+  ![Profile Views](https://komarev.com/ghpvcounter/?username=HaFiid98)
 
 </div>
 
