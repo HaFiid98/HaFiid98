@@ -15,13 +15,7 @@
 
 ## 🧠 Profile
 
-Backend-focused developer with a dual background in **software engineering and networking**.
-Strong emphasis on **system design, API architecture, and secure scalable applications**.
-
-* ⚙️ Build: REST / GraphQL APIs, real-time systems
-* 🔐 Security: JWT, RBAC, access control
-* ⚡ Performance: concurrency (Go routines, channels)
-* 🌐 Advantage: networking knowledge (TCP/IP, DNS, routing)
+const HaFiid = { code: ["Java", "JavaScript"], technologies: { backend: ["Spring Boot", "REST APIs"], frontend: ["HTML", "CSS", "JS"], devOps: ["Docker", "Linux"], databases: ["MySQL"] }, currentFocus: "Building scalable backend systems", funFact: "I debug with coffee ☕" };
 
 ---
 
