@@ -1,9 +1,7 @@
 name: Metrics
-
 on:
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
-  push: { branches: ["main"] }
 
 jobs:
   github-metrics:
@@ -18,28 +16,9 @@ jobs:
           user: HaFiid98
           filename: github-metrics.svg
 
-          base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Casablanca
+          base: header, activity, repositories
 
-          # Languages
           plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-
-          # Activity
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-
-          # Contributions
-          plugin_notable: yes
-
-          # Code stats
           plugin_lines: yes
-
-          # Extra (important for replica look)
-          plugin_followup: yes
-          plugin_followup_sections: user
-
-          plugin_traffic: yes
-          plugin_stars: yes
+          plugin_notable: yes

@@ -1,70 +1,73 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm HaFiid98
+<!-- HEADER -->
+
+<h1 align="center">Hi 👋, I'm Abdelhafid Hssaini</h1>
+<h3 align="center">Backend-Focused Full Stack Developer | Systems & API Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Engineer;Cloud+%26+DevOps+Enthusiast;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=750&lines=Spring+Boot+%7C+Go+Developer;Distributed+Systems+%26+APIs;Concurrency+%26+Real-Time+Apps;Clean+Architecture+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Profile
 
-```js
-const HaFiid98 = {
-  name: "Hssaini Abdelhafid", 
-  location: "Morocco",
-role: "Full stack Developper",
- currentFocus: "Building Cool Projects and Ai integration in Systems",
-  technologies: {
-    backend: ["Golang"  , "Rust", "Java"],
-    frontend: ["HTML", "CSS", "JS" , "React" , "NextJs"],
-    devOps: ["Docker", "Linux"],
-    databases: ["MySQL" , "Postgress" , "Sqlite"]
-  communities: ["Tech Community", "Ai Community"],
-   techStack: ["Web Development", "Ui/Ux", "Ai Enginering"], ;
-  },
-  currentFocus: "Building scalable Wep Apps ",
-  funFact: "I debug with coffee ☕"
-};
-```
+Backend-focused developer with a dual background in **software engineering and networking**.
+Strong emphasis on **system design, API architecture, and secure scalable applications**.
+
+* ⚙️ Build: REST / GraphQL APIs, real-time systems
+* 🔐 Security: JWT, RBAC, access control
+* ⚡ Performance: concurrency (Go routines, channels)
+* 🌐 Advantage: networking knowledge (TCP/IP, DNS, routing)
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Key Projects
 
-* 🚀 Working on **Project Name**
-* 📚 Learning **Cloud / DevOps**
-* 🤝 Contributing to Open Source
-* ✍️ Writing technical blogs
+### 🔥 Social Media Platform (Go + React)
+
+* Designed **3-tier architecture**
+* Built hybrid **REST + GraphQL API**
+* Implemented **real-time chat (WebSockets)**
+* Used **goroutines & channels** for concurrency
+* Secured with **JWT authentication**
 
 ---
 
-## 🛠️ Tech Stack
+### ⚙️ Custom JavaScript Framework
 
-### 💻 Languages
+* Built **Virtual DOM engine**
+* Implemented **reconciliation algorithm**
+* Created **state management system**
+* Developed **client-side router (SPA)**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+---
 
-### ⚙️ Backend
+### 📝 Blog Platform (Spring Boot + Angular)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+* Backend with **RBAC security model**
+* Designed **PostgreSQL relational schema**
+* Media handling (image/video streaming)
+* Admin dashboard for moderation
 
-### 🗄️ Database
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+## 🛠 Tech Stack
 
-### ☁️ DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,react,nextjs,docker,linux,mysql,postgres,git,js" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaFiid98&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=HaFiid98&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaFiid98&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=HaFiid98&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
@@ -73,7 +76,7 @@ role: "Full stack Developper",
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 Metrics
 
 <p align="center">
   <img src="./github-metrics.svg" />
@@ -81,31 +84,63 @@ role: "Full stack Developper",
 
 ---
 
-## ✍️ Latest Blog Posts
+## 🔥 Activity Graph
 
-<!-- BLOG-POST-LIST:START -->
-
-* Coming soon...
-
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaFiid98&theme=tokyo-night" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contributions
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <img src="https://raw.githubusercontent.com/HaFiid98/HaFiid98/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧩 Core Competencies
+
+**Backend Engineering**
+
+* Spring Boot, Go
+* REST APIs, GraphQL
+* Authentication (JWT)
+* RBAC & secure architecture
+
+**Frontend**
+
+* React, Next.js
+* SPA architecture
+
+**Systems & Networking**
+
+* TCP/IP, DNS
+* Routing & switching
+
+**Tools**
+
+* Docker, Git, Linux CLI
+
+---
+
+## 🌍 Languages
+
+Arabic • French • English
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:hssaini.abdelhafid1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaFiid98&style=flat-square&color=blue" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
