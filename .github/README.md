@@ -13,47 +13,43 @@
 
 ---
 
-```javascript
-const HaEiid98 = {
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  company: string;
+  skills: string[];
+  focus: string[];
+  philosophy: string;
+}
+
+const haeii98: Developer = {
   name: "Hssaini Abdelhafid",
-  location: "Morocco",
+  location: "Morocco 🇲🇦",
   role: "Full Stack Developer",
-  currentFocus: "Building Cool Projects",
-  community: ["Tech Community", "AI Community"],
-  techStack: ["Web Development", "AI Engineering", "UI/UX"],
-  funFact: "I code with precision 🔨"
+  company: "Freelance / Open Source",
+  
+  skills: [
+    "🌐 Web Development (React, Node.js)",
+    "🤖 AI Engineering",
+    "🎨 UI/UX Design",
+    "⚙️ Backend Systems & APIs",
+    "🗄️ Database Design",
+    "🚀 Building Scalable Projects"
+  ],
+  
+  focus: [
+    "Full Stack Applications",
+    "AI-powered Tools",
+    "Clean & Modern UI"
+  ],
+  
+  philosophy: "I build things that are simple, powerful, and actually useful 🔨"
 };
-```
 
-## 🚀 Key Projects
+console.log(`Initializing environment for ${haeii98.name}... 🚀`);
 
-### 🔥 Social Media Platform (Go + React)
 
-* Designed **3-tier architecture**
-* Built hybrid **REST + GraphQL API**
-* Implemented **real-time chat (WebSockets)**
-* Used **goroutines & channels** for concurrency
-* Secured with **JWT authentication**
-
----
-
-### ⚙️ Custom JavaScript Framework
-
-* Built **Virtual DOM engine**
-* Implemented **reconciliation algorithm**
-* Created **state management system**
-* Developed **client-side router (SPA)**
-
----
-
-### 📝 Blog Platform (Spring Boot + Angular)
-
-* Backend with **RBAC security model**
-* Designed **PostgreSQL relational schema**
-* Media handling (image/video streaming)
-* Admin dashboard for moderation
-
----
 
 ## 🛠 Tech Stack
 
