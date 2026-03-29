@@ -18,8 +18,7 @@
 ```typescript
 const HaFiid98 = {
     name: "Hssaini Abdelhafid",
-    location: "Morocco <img width="42" height="30" alt="image" src="https://github.com/user-attachments/assets/8509eaab-a78c-4a56-b23d-f42822c10221" />
-",
+  location: 'Morocco <img width="42" height="30" src="https://github.com/user-attachments/assets/8509eaab-a78c-4a56-b23d-f42822c10221" />',
     role: " Full Stack Developer",
     currentFocus: "Building Cool Projects",
     communities: ["Tech Community", "AI Community ],
