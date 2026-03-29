@@ -1,7 +1,6 @@
 <!-- HEADER -->
 
 <h1 align="center">Hi 👋, I'm Abdelhafid Hssaini</h1>
-<h3 align="center"> Full Stack Developer | Futur AI Engineer</h3>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=48&duration=4000&pause=1000&color=7DF7B9&center=true&vCenter=true&random=true&width=1100&height=150&lines=Full+Stack+Developer+%7C+Futur+AI+Engineer)](https://git.io/typing-svg)
