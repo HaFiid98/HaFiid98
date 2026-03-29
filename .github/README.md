@@ -18,22 +18,21 @@
 ### 👩‍💻 About Me
 
 ```typescript
-const developer = {
-    name: "Jane Doe",
-    location: "Tech City 🌆",
-    role: "Software Engineer",
+const HaFiid98 = {
+    name: "Hssaini Abdelhafid",
+    location: "Morocco",
+    role: "Full stack Developper",
     currentFocus: "Building Cool Projects",
-    communities: ["Tech Community", "Open Source Contributor"],
-    techStack: ["Web Development", "Cloud", "DevOps"],
-    funFact: "I debug with coffee! ☕"
+    communities: ["Tech Community", "Ai Community"],
+    techStack: ["Web Development", "Ui/Ux", "Ai Enginering"],
+
 };
 ```
 
 ### 🎯 Current Focus
 
-- 🚀 Working on [Project Name](https://github.com/username/project)
+- 🚀 Working on 01Blog
 - 📚 Learning new technologies
-- 🤝 Contributing to open source
 - ✍️ Writing technical blogs
 
 ### 🛠️ Tech Arsenal
