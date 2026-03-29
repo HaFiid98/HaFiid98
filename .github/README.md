@@ -13,22 +13,17 @@
 
 ---
 
-## 🧠 Profile
-
-```typescript
-const HaFiid98 = {
-    name: "Hssaini Abdelhafid",
-  location: 'Morocco <img width="42" height="30" src="https://github.com/user-attachments/assets/8509eaab-a78c-4a56-b23d-f42822c10221" />',
-    role: " Full Stack Developer",
-    currentFocus: "Building Cool Projects",
-    communities: ["Tech Community", "AI Community" ],
-    techStack: ["Web Development", "AI Enginering", "UI/UX"],
-    funFact: "I code with <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/323fcf24-e87b-4692-b7d2-dd68dcb86e94" />
-! ☕"
+```javascript
+const HaEiid98 = {
+  name: "Hssaini Abdelhafid",
+  location: "Morocco",
+  role: "Full Stack Developer",
+  currentFocus: "Building Cool Projects",
+  community: ["Tech Community", "AI Community"],
+  techStack: ["Web Development", "AI Engineering", "UI/UX"],
+  funFact: "I code with precision 🔨"
 };
 ```
-
----
 
 ## 🚀 Key Projects
 
