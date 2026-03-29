@@ -12,22 +12,34 @@
 </p>
 
 ---
-
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  company: string;
-  skills: string[];
-  focus: string[];
-  philosophy: string;
-}
-
-const haeii98: Developer = {
+```
+const HaFiid98: Developer = {
   name: "Hssaini Abdelhafid",
   location: "Morocco 🇲🇦",
   role: "Full Stack Developer",
   company: "Freelance / Open Source",
+  
+  skills: [
+    "🌐 Web Development (React, Node.js)",
+    "🤖 AI Engineering",
+    "🎨 UI/UX Design",
+    "⚙️ Backend Systems & APIs",
+    "🗄️ Database Design",
+    "🚀 Building Scalable Projects"
+  ],
+  
+  focus: [
+    "Full Stack Applications",
+    "AI-powered Tools",
+    "Clean & Modern UI"
+  ],
+  
+  philosophy: "I build things that are simple, powerful, and actually useful 🔨"
+};
+
+console.log(`Initializing environment for ${HaFiid98.name}... 🚀`);
+```
+---
   
   skills: [
     "🌐 Web Development (React, Node.js)",
