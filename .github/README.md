@@ -1,85 +1,111 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jane%20Doe&fontSize=80&animation=fadeIn" />
-</div>
-
-<h3 align="center">🚀 Full stack Developper  | Futur AI Engineer</h3>
-
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvcounter/?username=HaFiid98)
-
-</div>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm HaFiid98
 
 <p align="center">
-  <a href="https://your-blog-url.com"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=hashnode"/></a>
-  <a href="https://linkedin.com/in/jane-doe"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Engineer;Cloud+%26+DevOps+Enthusiast;Always+Learning" />
 </p>
 
-### 👩‍💻 About Me
+---
 
-```typescript
+## 🚀 About Me
+
+```js
 const HaFiid98 = {
-    name: "Hssaini Abdelhafid",
-    location: "Morocco",
-    role: "Full stack Developper",
-    currentFocus: "Building Cool Projects",
-    communities: ["Tech Community", "Ai Community"],
-    techStack: ["Web Development", "Ui/Ux", "Ai Enginering"],
-
+  name: "Hssaini Abdelhafid", 
+  location: "Morocco",
+role: "Full stack Developper",
+ currentFocus: "Building Cool Projects and Ai integration in Systems",
+  technologies: {
+    backend: ["Golang"  , "Rust", "Java"],
+    frontend: ["HTML", "CSS", "JS" , "React" , "NextJs"],
+    devOps: ["Docker", "Linux"],
+    databases: ["MySQL" , "Postgress" , "Sqlite"]
+  communities: ["Tech Community", "Ai Community"],
+   techStack: ["Web Development", "Ui/Ux", "Ai Enginering"], ;
+  },
+  currentFocus: "Building scalable Wep Apps ",
+  funFact: "I debug with coffee ☕"
 };
 ```
 
-### 🎯 Current Focus
+---
 
-- 🚀 Working on 01Blog
-- 📚 Learning new technologies
-- ✍️ Writing technical blogs
+## 🎯 Current Focus
 
-### 🛠️ Tech Arsenal
+* 🚀 Working on **Project Name**
+* 📚 Learning **Cloud / DevOps**
+* 🤝 Contributing to Open Source
+* ✍️ Writing technical blogs
 
-<details>
-<summary>💻 Languages</summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
-</details>
+---
 
-<details>
-<summary>🚀 Tools & Technologies</summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-</details>
+## 🛠️ Tech Stack
 
-### 📊 GitHub Metrics
+### 💻 Languages
 
-![Metrics](/github-metrics.svg)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 📝 Latest Blog Posts
+### ⚙️ Backend
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by the workflow -->
-<!-- BLOG-POST-LIST:END -->
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
-### 🤝 Let's Connect!
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### ☁️ DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="mailto:jane.doe@email.com">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaFiid98&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=HaFiid98&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaFiid98&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+* Coming soon...
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://x.com/janedoe">
-    <img src="https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaFiid98&style=flat-square&color=blue" />
+</p>
