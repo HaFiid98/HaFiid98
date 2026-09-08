@@ -41,26 +41,6 @@ const HaFiid98: Developer = {
   philosophy: "I build things that are simple, powerful, and actually useful 🔨"
 };
 
-console.log(`Initializing environment for ${HaFiid98.name}... 🚀`);
-
-  skills: [
-    "🌐 Web Development (React, Node.js)",
-    "🤖 AI Engineering",
-    "🎨 UI/UX Design",
-    "⚙️ Backend Systems & APIs",
-    "🗄️ Database Design",
-    "🚀 Building Scalable Projects"
-  ],
-  
-  focus: [
-    "Full Stack Applications",
-    "AI-powered Tools",
-    "Clean & Modern UI"
-  ],
-  
-  philosophy: "I build things that are simple, powerful, and actually useful 🔨"
-};
-
 console.log(`Initializing environment for ${haeii98.name}... 🚀`);
 
 ```
