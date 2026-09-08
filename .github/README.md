@@ -41,7 +41,7 @@ const HaFiid98: Developer = {
   philosophy: "I build things that are simple, powerful, and actually useful 🔨"
 };
 
-console.log(`Initializing environment for ${haeii98.name}... 🚀`);
+console.log(`Initializing environment for ${HaFiid98.name}... 🚀`);
 
 ```
 
